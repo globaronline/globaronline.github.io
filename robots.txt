@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /mail3.php
+Disallow: /mail3_thankyou.php
+Disallow: /cgi-bin/
+Sitemap: https://globaronline.github.io/sitemap.xml
+
+
