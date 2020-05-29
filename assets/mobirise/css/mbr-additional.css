@@ -8842,6 +8842,7 @@ section.lazy-placeholder:after {
 }
 .cid-s0iNKp88Vk .mbr-section-subtitle {
   color: #767676;
+  text-align: center;
 }
 .cid-s0iNwFbEhY {
   padding-top: 30px;
@@ -8856,25 +8857,9 @@ section.lazy-placeholder:after {
 }
 .cid-s0iNwFbEhY .counter-container ul li {
   margin-bottom: 1rem;
-  list-style: none;
 }
-.cid-s0iNwFbEhY .counter-container ul li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  padding-top: 3px;
-  content: '';
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 20px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #149dcc;
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
-  content: '✓';
+.cid-s0iNwFbEhY .mbr-text P {
+  text-align: left;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
