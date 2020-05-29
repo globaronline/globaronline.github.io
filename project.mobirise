@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "globAR Online",
-    "currentPage": "nosotros.html",
+    "currentPage": "términos-condiciones-política-privacidad.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -62,7 +62,7 @@
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
       "underlineLink": true,
-      "text": "Al enviar estás aceptando los <a href='terms.html'>Términos de Servicio</a> y la <a href='policy.html'>Polìtica de Privacidad</a>."
+      "text": "Al enviar estás aceptando los <a href='términos-condiciones-política-privacidad.html'>Términos y condiciones</a> y la <a href='términos-condiciones-política-privacidad.html'>Polìtica de Privacidad</a>."
     },
     "favicon": false,
     "screenshot": "screenshot.png",
