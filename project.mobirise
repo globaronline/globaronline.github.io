@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "globAR Online",
-    "currentPage": "categorias.html",
+    "currentPage": "cultura.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4844,8 +4844,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/encabezado-nota-800x480-folklore-1-676x451.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/encabezado-nota-800x480-folklore-1-676x451-676x451.jpg",
+                "image": "@PROJECT_PATH@/assets/images/folclore2-676x451.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/folclore2-676x451-676x451.jpg",
                 "alt": "Pareja bailando folclore",
                 "title": "Folclore argentino",
                 "customStyle1": "display-7",
