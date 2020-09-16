@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "globAR Online",
-    "currentPage": "page17.html",
+    "currentPage": "matematica.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -11281,9 +11281,9 @@
         }
       ]
     },
-    "page17.html": {
+    "matematica.html": {
       "settings": {
-        "meta_descr": "Website Generator Description",
+        "meta_descr": "Clases virtuales de apoyo por la profesora Verónica Diéguez",
         "title": "Matemática",
         "order": 13
       },
